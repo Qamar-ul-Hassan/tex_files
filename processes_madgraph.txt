@@ -1,0 +1,11 @@
+# no decay processes
+import model loop_sm-no_b_mass
+generate p p >  t t t~ j aS=2 aEW=2
+add process p p > t t~ t~ j  aS=2 aEW=2
+
+# decay processes
+# 3tops+jets
+import model loop_sm-no_b_mass
+define j = j  b  b~
+generate p p >  t t t~ j, (t > w+ b, w+ > l+ vl), (t~ > w- b~, w- > j j) aS=2 aEW=2
+add process p p > t t~ t~ j, (t~ > w- b~, w- > l- vl~), (t > w+ b, w+ > j j) aS=2 aEW=2

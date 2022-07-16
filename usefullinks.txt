@@ -1,0 +1,15 @@
+#############//////////////////@@@@@@@@@@@@@@@@@@@@Questions/Answers######################////////////////////@@@@@@@@@@@@@
+
+https://answers.launchpad.net/mg5amcnlo/+question/668490 #poles do not cancel
+
+https://answers.launchpad.net/mg5amcnlo/+faq/2720 # poles do not cancel
+
+https://answers.launchpad.net/mg5amcnlo/+question/443813 #lhapdf (solved)
+
+https://answers.launchpad.net/mg5amcnlo/+question/699440 #lhapdf (solved)
+
+https://answers.launchpad.net/mg5amcnlo/+question/269378 #ML5 can not decay yet
+
+https://answers.launchpad.net/mg5amcnlo/+question/678222 #auto launch
+
+https://theorique05.wordpress.com/master/semester-10/hep/madgraph/ #madgraph course

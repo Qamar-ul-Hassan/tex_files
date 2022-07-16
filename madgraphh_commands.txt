@@ -1,0 +1,46 @@
+./bin/mg5_aMC
+MG5_aMC>define k = g u u~ c c~ d d~ s s~ b b~
+MG5_aMC>generate p p > t t~, (t > w+ b, w+ > j j), (t~ > w- b~, w- > l- vl~)
+MG5_aMC>output test_dir
+MG5_aMC>launch test_dir/
+1
+2
+0
+1
+2
+3
+4
+
+http://atlas.fis.utfsm.cl/wiki/MadGraph/Pythia8/Delphes_II
+https://github.com/AleCandido/madgraph_exam
+https://sites.google.com/a/physics.umd.edu/cmsanalysis/home/analysis-steps#TOC-CREATE-MC-FOR-SIGNAL-PROCESS-AND-BACKGROUND
+
+////////NLO
+https://indico.cern.ch/event/829653/contributions/3636010/attachments/1948055/3232184/Tutorial_MG5aMC_Chennai2019_NLO.pdf
+http://www.physics.ntua.gr/corfu2017/Talks/olivier_mattelaer@uclouvain_be_01.pdf
+https://indico.ihep.ac.cn/event/7822/contribution/19/material/slides/0.pdf
+https://www.physics.sjtu.edu.cn/madgraphschool/index.php?q=node/29 
+
+lhe to root
+https://github.com/danphan/lhe-to-root/blob/master/looper.C
+
+numpy/python
+https://www.youtube.com/playlist?list=PLbGui_ZYuhigZkqrHbI_ZkPBrIr5Rsd5L 
+
+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  %github token
+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
+
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/Qamar-ul-Hassan/MG5.git
+
+git remote set-url origin git@github.com:Qamar-ul-Hassan/MG5.git
+
+git push -u origin main --force
+
